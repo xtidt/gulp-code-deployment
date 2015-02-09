@@ -15,6 +15,6 @@
 
 7.执行完成后，src文件夹中会生成css-build、js-build文件夹，以及templates/index.tpl、templates/userlist.tpl模板
 
-8. 当然还可以增加Sass预处理、自动前缀等其他任务
+8.当然还可以增加Sass预处理、自动前缀等其他任务
 
 
