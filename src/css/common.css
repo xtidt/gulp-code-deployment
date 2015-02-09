@@ -1,0 +1,13 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body,input,textarea,select {
+	font: 12px/1.5 arial,'simsun';
+	color: #333;
+}
+
+body {
+	background-color: #fff;
+}
